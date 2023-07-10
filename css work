@@ -1,0 +1,18 @@
+.button_main a {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.img_test1 {
+    width: 50%;
+    height: 50%;
+}
+
+.link_new {
+    display: block;
+    color: orange;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.abbr_CGI {
